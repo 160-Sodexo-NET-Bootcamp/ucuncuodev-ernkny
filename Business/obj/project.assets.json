@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Monster\\Desktop\\ikinci-hafta-odevi-ernkny-master\\Business\\Business.csproj",
+      "projectUniqueName": "C:\\Users\\Monster\\Desktop\\ErenKinay_Odev3_AtikToplama\\Business\\Business.csproj",
       "projectName": "Business",
-      "projectPath": "C:\\Users\\Monster\\Desktop\\ikinci-hafta-odevi-ernkny-master\\Business\\Business.csproj",
+      "projectPath": "C:\\Users\\Monster\\Desktop\\ErenKinay_Odev3_AtikToplama\\Business\\Business.csproj",
       "packagesPath": "C:\\Users\\Monster\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Monster\\Desktop\\ikinci-hafta-odevi-ernkny-master\\Business\\obj\\",
+      "outputPath": "C:\\Users\\Monster\\Desktop\\ErenKinay_Odev3_AtikToplama\\Business\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

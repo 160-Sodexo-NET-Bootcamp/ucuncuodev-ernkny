@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Monster\\Desktop\\ikinci-hafta-odevi-ernkny-master\\Entities\\Entity.csproj",
+      "projectUniqueName": "C:\\Users\\Monster\\Desktop\\ErenKinay_Odev3_AtikToplama\\Entities\\Entity.csproj",
       "projectName": "Entity",
-      "projectPath": "C:\\Users\\Monster\\Desktop\\ikinci-hafta-odevi-ernkny-master\\Entities\\Entity.csproj",
+      "projectPath": "C:\\Users\\Monster\\Desktop\\ErenKinay_Odev3_AtikToplama\\Entities\\Entity.csproj",
       "packagesPath": "C:\\Users\\Monster\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Monster\\Desktop\\ikinci-hafta-odevi-ernkny-master\\Entities\\obj\\",
+      "outputPath": "C:\\Users\\Monster\\Desktop\\ErenKinay_Odev3_AtikToplama\\Entities\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

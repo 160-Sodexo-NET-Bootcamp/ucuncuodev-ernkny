@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KbP9L52oYbuSPJukc87e2FW7BT7RlyRNdA0wa7jkdw1CI0HI5c7mRUsgr7PAnwhJYeIYYAA/YD1SiPrHurg+7A==",
+  "dgSpecHash": "pqIQPtYWsS/1mM5W7krWPST+PPxtjLpx39AX5u+3L4nJlgnxGLS4/Libo+vAEXBMUxdTPAj1FsCw3eebMPw9pw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Monster\\Desktop\\ikinci-hafta-odevi-ernkny-master\\Core\\Core.csproj",
+  "projectFilePath": "C:\\Users\\Monster\\Desktop\\ErenKinay_Odev3_AtikToplama\\Core\\Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Monster\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\Monster\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",

@@ -14,10 +14,12 @@ namespace Core.MiddleWare
 
 
         public async Task Invoke (HttpContext context)
-        {
-            if (context.Request.Path.StartsWithSegments("/heartbeat"))
+        { 
+            // Gelen Controller isteği GetById methodu ise controller bloklanır.
+            var requestQuery = context.Request.Path.StartsWithSegments("/api/Vehicles/GetById");
+            if (requestQuery)
             {
-                context.Response.StatusCode = 200;
+                context.Response.StatusCode = 403;
                 await context.Response.WriteAsync("Selamın Aleyküm Adım Azrail");
                 return;
             }
